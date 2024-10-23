@@ -1,0 +1,12 @@
+body{
+    background-color: rgba(255, 228, 196, 0.497);
+}
+.mantine-datatable-empty-state, .mantine-datatable-loader{
+    display: none;
+}
+.mantine-datatable-row, .mantine-datatable-header{
+    border-bottom:  2px solid #d986dd62
+} 
+.mantine-Input-input{
+    border: 2px solid #d986dd62;
+}

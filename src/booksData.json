@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "titleTypeAuthor": "The Great Gatsby, Novel, F. Scott Fitzgerald",
+    "categoryEditionYear": "Literature, 1st edition, 1925 year",
+    "spaceCopies": "American space Dushanbe\n3",
+    "actions": "edit | delete"
+  },
+  {
+    "id": 2,
+    "titleTypeAuthor": "To Kill a Mockingbird, Novel, Harper Lee",
+    "categoryEditionYear": "Literature, 1st edition, 1960 year",
+    "spaceCopies": "American space Dushanbe\n2",
+    "actions": "edit | delete"
+  },
+  {
+    "id": 3,
+    "titleTypeAuthor": "1984, Dystopian, George Orwell",
+    "categoryEditionYear": "Literature, 1st edition, 1949 year",
+    "spaceCopies": "American space Dushanbe\n4",
+    "actions": "edit | delete"
+  },
+  {
+    "id": 4,
+    "titleTypeAuthor": "A Brief History of Time, Science, Stephen Hawking",
+    "categoryEditionYear": "Science, 1st edition, 1988 year",
+    "spaceCopies": "American space Dushanbe\n5",
+    "actions": "edit | delete"
+  },
+  {
+    "id": 5,
+    "titleTypeAuthor": "The Selfish Gene, Science, Richard Dawkins",
+    "categoryEditionYear": "Science, 1st edition, 1976 year",
+    "spaceCopies": "American space Dushanbe\n3",
+    "actions": "edit | delete"
+  },
+  {
+    "id": 6,
+    "titleTypeAuthor": "Sapiens: A Brief History of Humankind, Science, Yuval Noah Harari",
+    "categoryEditionYear": "Science, 1st edition, 2011 year",
+    "spaceCopies": "American space Dushanbe\n4",
+    "actions": "edit | delete"
+  },
+  {
+    "id": 7,
+    "titleTypeAuthor": "The Catcher in the Rye, Novel, J.D. Salinger",
+    "categoryEditionYear": "Literature, 1st edition, 1951 year",
+    "spaceCopies": "American space Dushanbe\n3",
+    "actions": "edit | delete"
+  },
+  {
+    "id": 8,
+    "titleTypeAuthor": "Pride and Prejudice, Novel, Jane Austen",
+    "categoryEditionYear": "Literature, 1st edition, 1813 year",
+    "spaceCopies": "American space Dushanbe\n5",
+    "actions": "edit | delete"
+  },
+  {
+    "id": 9,
+    "titleTypeAuthor": "The Oxford English Dictionary, Dictionary, Oxford University Press",
+    "categoryEditionYear": "Dictionary, 3rd edition, 2000 year",
+    "spaceCopies": "American space Dushanbe\n2",
+    "actions": "edit | delete"
+  },
+  {
+    "id": 10,
+    "titleTypeAuthor": "The Elements of Style, Reference, William Strunk Jr.",
+    "categoryEditionYear": "Reference, 4th edition, 2000 year",
+    "spaceCopies": "American space Dushanbe\n4",
+    "actions": "edit | delete"
+  }
+]
